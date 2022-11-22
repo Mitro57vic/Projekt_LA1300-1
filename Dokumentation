@@ -20,16 +20,20 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |       muss          |   funktional   | Als User möchte ich ein Schwierigkeit bei dem Gegner auswählen können, damit es verschiede Schwierigkeiten gibt.  |
-| 2  |          muss       |  funktional    |   Als User möchte ich                                  |
-|3|          muss       |   funktional   |   Als User möchte ich                                  |
-|  4 |          muss       |  funktional    |    Als User möchte ich                                 |
-| 5  |          muss       |  funktional    |     Als User möchte ich                                |
-| 6 |          muss       |    funktional  |    Als User möchte ich                                 |
-| 7  |          muss       |  funktional    |      Als User möchte ich                               |
-| 8 |          muss       |  funktional    |    Als User möchte ich                                 |
-| 9  |          muss       |  funktional    |     Als User möchte ich                                |
-| 10 |          muss       |   funktional   |      Als User möchte ich                               |
+| 1    |       kann         |   funktional   | Als User möchte ich ein Schwierigkeit bei dem Gegner auswählen können, damit es verschiedene Schwierigkeiten gibt.  |
+| 2  |          muss       |  funktional    |   Als User möchte ich das ich sehen kann wie viele Punkte ich habe, damit ich weiss ob ich am gewinnnen oder verlieren bin.                                 |
+|3|          muss       |   funktional   |   Als User möchte ich das ich sehen kann wie viele Punkte mein Gegner hat, damit ich weiss ob ich am gewinnen oder verlieren bin.                                  |
+|  4 |          muss       |  funktional    |    Als User möchte ich eine auswahl von verschiedenen Ballfarben haben, damit das Spiel verschiedene Farben haben kann.                             |
+| 5  |          kann       |  funktional    |     Als User möchte ich eine auswahl von verschiedenen Blockstabfarben haben, damit das Spiel verschiedene Farben haben kann.                           |
+| 6 |          kann       |    funktional  |    Als User möchte ich eine Farbauswahl von dem Blockstab meines Gegners haben, damit das Spiel verschiedene Farben haben kann.                             |
+| 7  |          kann       |  funktional    |      Als User möchte ich das wenn ich einen Punkt mache ein Sound abgesoielt wird, damit das Spiel Lustiger wird.                               |
+| 8 |          kann       |  funktional    |    Als User möchte ich die Ballgeschwindigkeit ändern können, damit das Spiel schwieriger wird.                               |
+| 9  |          kann       |  funktional    |     Als User möchte ich dass während des Spiel eine leise Musik abgespielt wird, damit das Spiel intreresanter wird.                              |
+| 10 |          muss       |   funktional   |      Als User möchte ich das sich der Ball bewegen kann, damit das Spiel laufen kann.                               |
+| 11 |          muss       |   funktional   |   Als User möchte ich dass sich die Blockstäbe nur vertikal bewegen können, damit man Bälle abwehren kann.                            |
+| 12 |          muss       |   funktional   |   Als User möchte ich das der Ball an der Decke und am Boden abprallt, damit der Ball im Spiel bleibt.                             |
+| 13 |          muss       |   funktional   |   Als User möchte ich das das Spiel nachdem der erste Spieler 10 Punkte erreicht hat beendet wird, damit es dann einen Sieger gibt.                                |
+| 14 |          muss       |   funktional   |   Als User möchte ich das fals die 10 Punkte in der Zeit von 5 Minuten nicht erreicht werden das Spiel beendet wird und der Spieler mit mehr Punkten das Spiel gewinnt, fals gleich viele Punkte Unendschieden, damit das Spiel nicht unendlich lange ist.                                |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
