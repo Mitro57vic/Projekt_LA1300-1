@@ -35,27 +35,66 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 13 |          muss       |   funktional   |   Als User möchte ich das das Spiel nachdem der erste Spieler 10 Punkte erreicht hat beendet wird, damit es dann einen Sieger gibt.                                |
 | 14 |          muss       |   funktional   |   Als User möchte ich das fals die 10 Punkte in der Zeit von 5 Minuten nicht erreicht werden das Spiel beendet wird und der Spieler mit mehr Punkten das Spiel gewinnt, fals gleich viele Punkte Unendschieden, damit das Spiel nicht unendlich lange ist.                                |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |      Programm wird geöffnet        |  Der User wählt eine Schwierigkeit aus       |   Der Gegner im nächsten spiel hat diese Schwierigkeit                |
+| 2.1  |     User ist im Spiel         |  keine       |     Seine Punkte werden angezeigt              |
+| 3.1  |    User ist im Spiel          |   keine      |     Punkte des Gegners werden angezeigt              |
+| 4.1  |      Programm wird geöffnet         |  User wählt Ballfarbe aus       |    Die ausgewählte Ballfarbe wird im nächsten Spiel benutzt               |
+| 5.1  |      Programm wird geöffnet          |   User wählt Blockstabfarbe aus       |  Die ausgewählte Blockstabfarbe auf seiner Seite wird im nächsten Spiel benutzt                 |
+| 6.1  |    Programm wird geöffnet            |   Der User wählt die Blockstabfarbe für seinen Gegner aus      |  Die ausgewählte Blockstabfarbe auf der gegner Seite wird im nächsten Spiel benutzt                  |
+| 7.1  |     User ist im Spiel         | Punkt wird gemacht        |      Sound wird abgespielt             |
+| 8.1  |    Programm wird geöffnet           |   Ballgeschwindigkeit wird ausgewählt      |   Die ausgewählte Ballgeschwindigkeit wird im nächsten Spiel benutzt                 |
+| 9.1  |     Spiel wird gestartet         |  Keine       |     Musik wird abgespielt              |
+| 10.1  |    Spiel wird gestartet          |   Keine      |   Ball bewegt sich frei                |
+| 11.1  |   Spiel wird gestartet           | User steuert Blockstab        |  Blockstab bewegt sich vertikal                 |
+| 12.1  |    Spiel wird gestartet          | Ball kommt mit Decke oder Boden in Kontakt        |   Ball Prallt ab                |
+| 13.1  |   Spiel wird gestartet           | Keine        |  Nachdem der erste Spieler 10 Punkte erreicht hat, spiel beendet                 |
+| 14.1  |     Spiel wird gestartet        |  Keine       |Spiel wird spätestens nach 5 Minuten beendet                   |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
-
+✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       |    Lennard Bühler       |              |               |
+| 2.A  |       |   Lennard Bühler          |              |               |
+| 3.A  |       |     Lennard Bühler        |              |               |
+| 4.A  |       |     Lennard Bühler        |              |               |
+| 5.A  |       |     Lennard Bühler        |              |               |
+| 6.A  |       |     Lennard Bühler        |              |               |
+| 7.A  |       |           |              |               |
+| 8.A  |       |           |              |               |
+| 9.A  |       |           |              |               |
+| 10.A  |       |           |              |               |
+| 11.A  |       |           |              |               |
+| 12.A  |       |           |              |               |
+| 13.A  |       |           |              |               |
+| 14.A  |       |           |              |               |
+| 15.A  |       |           |              |               |
+| 16.A  |       |           |              |               |
+| 17.A  |       |           |              |               |
+| 18.A  |       |           |              |               |
+| 19.A  |       |           |              |               |
+| 20.A  |       |           |              |               |
+| 21.A  |       |           |              |               |
+| 22.A  |       |           |              |               |
+| 23.A  |       |           |              |               |
+| 24.A  |       |           |              |               |
+| 25.A  |       |           |              |               |
+| 26.A  |       |           |              |               |
+| 27.A  |       |           |              |               |
+| 29.A  |       |           |              |               |
+| 30.A  |       |           |              |               |
+      
 
 Total: 
 
