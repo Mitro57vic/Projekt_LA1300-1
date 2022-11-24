@@ -65,12 +65,12 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |    Lennard Bühler       |              |               |
-| 2.A  |       |   Lennard Bühler          |              |               |
-| 3.A  |       |     Lennard Bühler        |              |               |
-| 4.A  |       |     Lennard Bühler        |              |               |
-| 5.A  |       |     Lennard Bühler        |              |               |
-| 6.A  |       |     Lennard Bühler        |              |               |
+| 1.A  |       |    Lennard Bühler       |  Der User wird nach dem Namen gefragt            |   30 min            |
+| 2.A  |       |   Lennard Bühler          |  Der User kann die Hintergrundfarbe bestimmen           |    50 min           |
+| 3.A  |       |     Lennard Bühler        |  Der User seinem Gegner einen Namen geben           |  30 min             |
+| 4.A  |       |     Lennard Bühler        |   Der User hat die Auswahl aus verschiedenen Ball geschwindigkeiten          |  90 min             |
+| 5.A  |       |     Lennard Bühler        |  Im Spiel werden die Punkte des Users gezählt           |    50 min           |
+| 6.A  |       |     Lennard Bühler        |  Im Spiel werden die Punkte des Gegners gezählt            |   50 min            |
 | 7.A  |       |     Filip Mitrovic      |              |               |
 | 8.A  |       |  Filip Mitrovic          |              |               |
 | 9.A  |       |   Filip Mitrovic         |              |               |
