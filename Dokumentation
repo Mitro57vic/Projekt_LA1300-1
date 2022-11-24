@@ -71,20 +71,19 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 4.A  |       |     Lennard Bühler        |   Der User hat die Auswahl aus verschiedenen Ball geschwindigkeiten          |  90 min             |
 | 5.A  |       |     Lennard Bühler        |  Im Spiel werden die Punkte des Users gezählt           |    50 min           |
 | 6.A  |       |     Lennard Bühler        |  Im Spiel werden die Punkte des Gegners gezählt            |   50 min            |
-| 7.A  |       |     Filip Mitrovic      |              |               |
-| 8.A  |       |  Filip Mitrovic          |              |               |
-| 9.A  |       |   Filip Mitrovic         |              |               |
-| 10.A  |       |  Filip Mitrovic          |              |               |
-| 11.A  |       |  Filip Mitrovic          |              |               |
-| 12.A  |       |   Filip Mitrovic         |              |               |
-| 13.A  |       |    Justus Meister       |              |               |
-| 14.A  |       |    Justus Meister       |              |               |
+| 7.A  |       |     Filip Mitrovic        | Ballfarbe kann bestimmt werden|30 Min.|
+| 8.A  |       |    Filip Mitrovic         |  Blockstabfarbe des Gegners kann bestimmt werden| 20 Min.              |
+| 9.A  |       |    Filip Mitrovic        | Es hat ein Zeitlimit bis das Spiel beendet wird             |    20 Min.           |
+| 10.A  |       |      Filip Mitrovic      | Blockstäbe können nur Vertikal bewegt werden.             |     45 Min.          |
+| 11.A  |       |        Filip Mitrovic    | Ball prallt von der Decke und Boden ab.             |      40 Min.         |
+| 12.A  |       |        Filip Mitrovic    | Schwierigkeitgrad kann verändert werden.             |    20 Min.           |
+| 13.A  |       |        Filip Mitrovic    | Sound wird nach einem Tor abgespielt             |               |
+| 14.A  |       |  Filip Mitrovic         |  Blockstabfarbe des Users kann bestimmt werden            |  15 Min.             |
 | 15.A  |       |    Justus Meister       |              |               |
 | 16.A  |       |    Justus Meister       |              |               |
-| 17.A  |       |    Justus Meister       |              |               |
-| 18.A  |       |     Justus Meister      |              |               |
-| 19.A  |       |      Julian Warnebold     |              |               |
-| 20.A  |       |       Julian Warnebold       |              |               |              
+| 17.A  |       |     Justus Meister      |              |               |
+| 18.A  |       |      Julian Warnebold     |              |               |
+| 19.A  |       |       Julian Warnebold       |              |               |              
 | 20.A  |       |      Julian Warnebold        |              |               |
 | 21.A  |       |      Julian Warnebold        |              |               |
 | 22.A  |       |      Julian Warnebold        |              |               |
