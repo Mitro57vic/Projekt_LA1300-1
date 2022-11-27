@@ -26,7 +26,7 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 |  4 |          muss       |  funktional    |    Als User möchte ich eine auswahl von verschiedenen Ballfarben haben, damit das Spiel verschiedene Farben haben kann.                             |
 | 5  |          kann       |  funktional    |     Als User möchte ich eine auswahl von verschiedenen Blockstabfarben haben, damit das Spiel verschiedene Farben haben kann.                           |
 | 6 |          kann       |    funktional  |    Als User möchte ich eine Farbauswahl von dem Blockstab meines Gegners haben, damit das Spiel verschiedene Farben haben kann.                             |
-| 7  |          kann       |  funktional    |      Als User möchte ich das wenn ich einen Punkt mache ein Sound abgesoielt wird, damit das Spiel Lustiger wird.                               |
+| 7  |          kann       |  funktional    |      Als User möchte ich das wenn ich einen Punkt mache ein Sound abgespielt wird, damit das Spiel Lustiger wird.                               |
 | 8 |          kann       |  funktional    |    Als User möchte ich die Ballgeschwindigkeit ändern können, damit das Spiel schwieriger wird.                               |
 | 9  |          kann       |  funktional    |     Als User möchte ich dass während des Spiel eine leise Musik abgespielt wird, damit das Spiel intreresanter wird.                              |
 | 10 |          muss       |   funktional   |      Als User möchte ich das sich der Ball bewegen kann, damit das Spiel laufen kann.                               |
@@ -88,12 +88,12 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 21.A  |       |      Julian Warnebold        |              |               |
 | 22.A  |       |      Julian Warnebold        |              |               |
 | 23.A  |       |    Julian Warnebold       |              |               |
-| 24.A  |       |    Julian Hitz         |              |               |
-| 25.A  |       |     Julian Hitz        |              |               |
-| 26.A  |       |     Julian Hitz        |              |               |
-| 27.A  |       |      Julian Hitz       |              |               |
-| 29.A  |       |      Julian Hitz       |              |               |
-| 30.A  |       |     Julian Hitz       |              |               |
+| 24.A  |       |    Julian Hitz         | Das Spiel nach 10 Punkten beendet wird     | 30 Min.    |
+| 25.A  |       |     Julian Hitz        | Das Spiel nach 5 Min. beendet wird, wenn keine 10 Punkte|  45 Min.             |
+| 26.A  |       |     Julian Hitz        | Der Ball sich bewegen kann       | 45 Min.              |
+| 27.A  |       |      Julian Hitz       | Es nach einem Punkt weiter geht, mit Anstoss       | 30 Min.              |
+| 29.A  |       |      Julian Hitz       | Der Sieger am Ende des Spiels bestimmt wird             |  45 Min.             |
+| 30.A  |       |     Julian Hitz        | Die Punkte Angezeigt werden             | 45 Min.              |
       
 
 Total: 
