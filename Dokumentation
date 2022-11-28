@@ -34,6 +34,16 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 12 |          muss       |   funktional   |   Als User möchte ich das der Ball an der Decke und am Boden abprallt, damit der Ball im Spiel bleibt.                             |
 | 13 |          muss       |   funktional   |   Als User möchte ich das das Spiel nachdem der erste Spieler 10 Punkte erreicht hat beendet wird, damit es dann einen Sieger gibt.                                |
 | 14 |          muss       |   funktional   |   Als User möchte ich das fals die 10 Punkte in der Zeit von 5 Minuten nicht erreicht werden das Spiel beendet wird und der Spieler mit mehr Punkten das Spiel gewinnt, fals gleich viele Punkte Unendschieden, damit das Spiel nicht unendlich lange ist.                                |
+| 15    |       kann         |   funktional   |  Als User möchte ich eine Farbauswahl von dem Hintergrund haben, damit das Spiel verschiedene Farben haben kann.  |
+
+
+
+
+
+
+
+
+
 
 
 ### 1.3 Testfälle
@@ -82,12 +92,12 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 15.A  |       |    Filip Mitrovic       |     User hat eine Auswahl von Sounds die abgespielt werden können beim erzielen eines Punktes.         |     45 Min.          |
 | 16.A  |       |    Justus Meister       |              |               |
 | 17.A  |       |     Justus Meister      |              |               |
-| 18.A  |       |      Julian Warnebold     |              |               |
-| 19.A  |       |       Julian Warnebold       |              |               |              
-| 20.A  |       |      Julian Warnebold        |              |               |
-| 21.A  |       |      Julian Warnebold        |              |               |
-| 22.A  |       |      Julian Warnebold        |              |               |
-| 23.A  |       |    Julian Warnebold       |              |               |
+| 18.A  |       |      Julian Warnebold     |Hintergrundfarben bestimmen können              |   60 Min.            |
+| 19.A  |       |       Julian Warnebold       |  Hintergrundfarbe nach jedem Spiel ändern können            |      30 Min.         |              
+| 20.A  |       |      Julian Warnebold        |  Hintergründe mit mehreren Farben wählen können            |      50 Min.         |
+| 21.A  |       |      Julian Warnebold        |  Wenn Hintergrund mit mehreren Farben gewählt wird und nur eine Ausgesucht wird, Fehler eingabe            |     20 Min.          |
+| 22.A  |       |      Julian Warnebold        |  Hintergrundmuster auswählen könne            |   40 Min.            |
+| 23.A  |       |    Julian Warnebold       | Maximal 1 Hintergrundmuster möglich machen             |     30 Min          |
 | 24.A  |       |    Julian Hitz         | Das Spiel nach 10 Punkten beendet wird     | 30 Min.    |
 | 25.A  |       |     Julian Hitz        | Das Spiel nach 5 Min. beendet wird, wenn keine 10 Punkte|  45 Min.             |
 | 26.A  |       |     Julian Hitz        | Der Ball sich bewegen kann       | 45 Min.              |
