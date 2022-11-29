@@ -120,9 +120,11 @@ Total:
 ## 3 Entscheiden
 
 Wie haben uns für eine Stoppuhr endschieden, weil wir das schon im letzten Projekt machen mussten und das dadurch schon konnten.
+
 Wir haben uns für eine Farben auswahl bei Blockstäben, Ball, Hintergrund etc. entschieden, weil dadurch das Spiel nicht so uninteresant ist.
+
 Wir haben uns dafür entschieden das es verschiedene Schwirigkeiten gibt, dass der User das Spiel an seine Stärke anpassen kann.
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
