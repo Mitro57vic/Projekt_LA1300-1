@@ -87,13 +87,13 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 5.A  |       |     Lennard Bühler        |  Im Spiel werden die Punkte des Users gezählt           |    50 Min           |
 | 6.A  |       |     Lennard Bühler        |  Im Spiel werden die Punkte des Gegners gezählt            |   50 Min            |
 | 7.A  |       |     Filip Mitrovic        | Ballfarbe kann bestimmt werden|30 Min.|
-| 8.A  |       |    Filip Mitrovic         |  Blockstabfarbe des Gegners kann bestimmt werden| 20 Min.              |
-| 9.A  |       |    Filip Mitrovic        | Es hat ein Zeitlimit bis das Spiel beendet wird             |    20 Min.           |
+| 8.A  |       |    Filip Mitrovic         |  Blockstabfarbe des Gegners kann bestimmt werden| 30 Min.              |
+| 9.A  |       |    Filip Mitrovic        | Es hat ein Zeitlimit bis das Spiel beendet wird             |    30 Min.           |
 | 10.A  |       |      Filip Mitrovic      | Blockstäbe können nur Vertikal bewegt werden.             |     45 Min.          |
 | 11.A  |       |        Filip Mitrovic    | Ball prallt von der Decke und Boden ab.             |      40 Min.         |
-| 12.A  |       |        Filip Mitrovic    | Schwierigkeitgrad kann verändert werden.             |    20 Min.           |
+| 12.A  |       |        Filip Mitrovic    | Schwierigkeitgrad kann verändert werden.             |    30 Min.           |
 | 13.A  |       |        Justus mester   | Sound wird nach einem Tor abgespielt             |     50 min          |
-| 14.A  |       |  Justus Meister       |  Blockstabfarbe des Users kann bestimmt werden            |  15 Min.             |
+| 14.A  |       |  Justus Meister       |  Blockstabfarbe des Users kann bestimmt werden            |  35 Min.             |
 | 15.A  |       |    Justus Meister      |     User hat eine Auswahl von Sounds die abgespielt werden können beim erzielen eines Punktes.         |     45 Min.          |
 | 16.A  |       |    Justus Meister       |    Der Winkel mit dem der Ball vom Blockstab abprallt soll sich ändern je weiter oben oder unten der Ball auf den Blockstab trifft.          |      30 Min.         |
 | 17.A  |       |     Justus Meister      |  Das Spiel soll im Vollbildmodus spielbar sein.            |    30 Min.           |
@@ -119,45 +119,48 @@ Total:
 
 ## 3 Entscheiden
 
+Wie haben uns für eine Stoppuhr endschieden, weil wir das schon im letzten Projekt machen mussten und das dadurch schon konnten.
+Wir haben uns für eine Farben auswahl bei Blockstäben, Ball, Hintergrund etc. entschieden, weil dadurch das Spiel nicht so uninteresant ist.
+Wir haben uns dafür entschieden das es verschiedene Schwirigkeiten gibt, dass der User das Spiel an seine Stärke anpassen kann.
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |      Lennard Bühler     |               |                   |
-| 2.A. |       |    Lennard Bühler        |               |                   |
-| 3.A  |       |    Lennard Bühler        |               |                   |
-| 4.A  |       |     Lennard Bühler       |               |                   |
-| 5.A  |       |     Lennard Bühler       |               |                   |
-| 6.A  |       |     Lennard Bühler       |               |                   |
-| 7.A  |       |    Filip Mitrovic       |               |                   |
-| 8.A  |       |   Filip Mitrovic         |               |                   |
-| 9.A  |       |   Filip Mitrovic         |               |                   |
-| 10.A  |       |   Filip Mitrovic         |               |                   |
-| 11.A  |       |    Filip Mitrovic        |               |                   |
-| 12.A  |       |    Filip Mitrovic        |               |                   |
-| 13.A  |       |    Justus Meister       |               |                   |
-| 14.A  |       |   Justus Meister         |               |                   |
-| 15.A  |       |   Justus Meister         |               |                   |
-| 16.A  |       |   Justus Meister         |               |                   |
-| 17.A  |       |  Justus Meister          |               |                   |
-| 18.A  |       |  Julian Warnebold         |               |                   |
-| 19.A  |       |   Julian Warnebold         |               |                   |
-| 20.A  |       |   Julian Warnebold         |               |                   |
-| 21.A  |       |    Julian Warnebold        |               |                   |
-| 22.A  |       |   Julian Warnebold         |               |                   |
-| 23.A  |       |   Julian Warnebold         |               |                   |
-| 24.A  |       | Julian Hitz          |               |                   |
-| 25.A  |       | Julian Hitz          |               |                   |
-| 26.A  |       |  Julian Hitz         |               |                   |
-| 27.A  |       |  Julian Hitz         |               |                   |
-| 28.A  |       | Julian Hitz          |               |                   |
-| 29.A  |       | Julian Hitz          |               |                   |
-| 30.A  |       |  Julian Hitz         |               |                   |
+| 1.A  |       |      Lennard Bühler     |       30 min        |                   |
+| 2.A. |       |    Lennard Bühler        |    50 min           |                   |
+| 3.A  |       |    Lennard Bühler        |     30 min          |                   |
+| 4.A  |       |     Lennard Bühler       |     90 min          |                   |
+| 5.A  |       |     Lennard Bühler       |      50 min         |                   |
+| 6.A  |       |     Lennard Bühler       |      50 min         |                   |
+| 7.A  |       |    Filip Mitrovic       |      30 min         |                   |
+| 8.A  |       |   Filip Mitrovic         |      30 min         |                   |
+| 9.A  |       |   Filip Mitrovic         |     30 min          |                   |
+| 10.A  |       |   Filip Mitrovic         |      45 min         |                   |
+| 11.A  |       |    Filip Mitrovic        |     40 min          |                   |
+| 12.A  |       |    Filip Mitrovic        |     30 min          |                   |
+| 13.A  |       |    Justus Meister       |      50 min         |                   |
+| 14.A  |       |   Justus Meister         |     35 min          |                   |
+| 15.A  |       |   Justus Meister         |      45 min         |                   |
+| 16.A  |       |   Justus Meister         |      30 min         |                   |
+| 17.A  |       |  Justus Meister          |      30 min         |                   |
+| 18.A  |       |  Julian Warnebold         |        60 min       |                   |
+| 19.A  |       |   Julian Warnebold         |     30 min          |                   |
+| 20.A  |       |   Julian Warnebold         |        30 min       |                   |
+| 21.A  |       |    Julian Warnebold        |       50 min        |                   |
+| 22.A  |       |   Julian Warnebold         |         20 min      |                   |
+| 23.A  |       |   Julian Warnebold         |      40 min         |                   |
+| 24.A  |       | Julian Hitz          |         30 min      |                   |
+| 25.A  |       | Julian Hitz          |         30 min      |                   |
+| 26.A  |       |  Julian Hitz         |        45 min       |                   |
+| 27.A  |       |  Julian Hitz         |       45 min        |                   |
+| 28.A  |       | Julian Hitz          |       30 min        |                   |
+| 29.A  |       | Julian Hitz          |        45 min       |                   |
+| 30.A  |       |  Julian Hitz         |      45 min         |                   |
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
