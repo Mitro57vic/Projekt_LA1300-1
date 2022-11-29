@@ -73,7 +73,8 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+<img width="358" alt="MicrosoftTeams-image (1)" src="https://user-images.githubusercontent.com/110892642/204496004-052f2f71-1603-4840-a314-8a9cf70b554e.png">
+
 
 ## 2 Planen
 
