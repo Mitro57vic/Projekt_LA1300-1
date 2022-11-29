@@ -11,7 +11,7 @@ Filip Mitrovic, Julian Warnebold, Julian Hitz, Justus Meister, Lennard Bühler
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   22.11.2022    | 0.0.1   |  Gruppe kennengelernt, sich min Use case und WinForms vertraut gemacht, Projektdokumentation angefangen|
-|   29.11.2022    | 0.0.5     |   Wir haben uns über das Spiel Pong genauer angeschaut und schon angefangen mit dem Programieren                                                           |
+|   29.11.2022    | 0.0.5     |   Wir haben uns das Spiel Pong genauer angeschaut und schon angefangen mit dem Programieren                                                           |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
