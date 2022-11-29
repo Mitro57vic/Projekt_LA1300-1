@@ -87,10 +87,10 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 10.A  |       |      Filip Mitrovic      | Blockstäbe können nur Vertikal bewegt werden.             |     45 Min.          |
 | 11.A  |       |        Filip Mitrovic    | Ball prallt von der Decke und Boden ab.             |      40 Min.         |
 | 12.A  |       |        Filip Mitrovic    | Schwierigkeitgrad kann verändert werden.             |    20 Min.           |
-| 13.A  |       |        Filip Mitrovic    | Sound wird nach einem Tor abgespielt             |     50 min          |
-| 14.A  |       |  Filip Mitrovic         |  Blockstabfarbe des Users kann bestimmt werden            |  15 Min.             |
-| 15.A  |       |    Filip Mitrovic       |     User hat eine Auswahl von Sounds die abgespielt werden können beim erzielen eines Punktes.         |     45 Min.          |
-| 16.A  |       |    Justus Meister       |              |               |
+| 13.A  |       |        Justus mester   | Sound wird nach einem Tor abgespielt             |     50 min          |
+| 14.A  |       |  Justus Meister       |  Blockstabfarbe des Users kann bestimmt werden            |  15 Min.             |
+| 15.A  |       |    Justus Meister      |     User hat eine Auswahl von Sounds die abgespielt werden können beim erzielen eines Punktes.         |     45 Min.          |
+| 16.A  |       |    Justus Meister       |    Der Winkel mit dem der Ball vom Blockstab abprallt soll sich ändern je weiter oben oder unten der Ball auf den Blockstab trifft.          |               |
 | 17.A  |       |     Justus Meister      |              |               |
 | 18.A  |       |      Julian Warnebold     |Hintergrundfarben bestimmen können              |   60 Min.            |
 | 19.A  |       |       Julian Warnebold       |  Hintergrundfarbe nach jedem Spiel ändern können            |      30 Min.         |              
