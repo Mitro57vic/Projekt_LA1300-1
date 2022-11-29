@@ -122,8 +122,8 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 13.A  |       |        Justus mester   | Sound wird nach einem Tor abgespielt             |     50 min          |
 | 14.A  |       |  Justus Meister       |  Blockstabfarbe des Users kann bestimmt werden            |  15 Min.             |
 | 15.A  |       |    Justus Meister      |     User hat eine Auswahl von Sounds die abgespielt werden können beim erzielen eines Punktes.         |     45 Min.          |
-| 16.A  |       |    Justus Meister       |    Der Winkel mit dem der Ball vom Blockstab abprallt soll sich ändern je weiter oben oder unten der Ball auf den Blockstab trifft.          |               |
-| 17.A  |       |     Justus Meister      |              |               |
+| 16.A  |       |    Justus Meister       |    Der Winkel mit dem der Ball vom Blockstab abprallt soll sich ändern je weiter oben oder unten der Ball auf den Blockstab trifft.          |      30 Min.         |
+| 17.A  |       |     Justus Meister      |  Das Spiel soll im Vollbildmodus spielbar sein.            |    30 Min.           |
 | 18.A  |       |      Julian Warnebold     |Hintergrundfarben bestimmen können              |   60 Min.            |
 | 19.A  |       |       Julian Warnebold       |  Hintergrundfarbe nach jedem Spiel ändern können            |      30 Min.         |              
 | 20.A  |       |      Julian Warnebold        |  Hintergründe mit mehreren Farben wählen können            |      50 Min.         |
