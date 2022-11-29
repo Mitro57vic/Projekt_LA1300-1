@@ -4,7 +4,7 @@
 
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+
 
 Filip Mitrovic, Julian Warnebold, Julian Hitz, Justus Meister, Lennard Bühler
 
