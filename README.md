@@ -125,8 +125,37 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |       |      Lennard Bühler     |               |                   |
+| 2.A. |       |    Lennard Bühler        |               |                   |
+| 3.A  |       |    Lennard Bühler        |               |                   |
+| 4.A  |       |     Lennard Bühler       |               |                   |
+| 5.A  |       |     Lennard Bühler       |               |                   |
+| 6.A  |       |     Lennard Bühler       |               |                   |
+| 7.A  |       |    Filip Mitrovic       |               |                   |
+| 8.A  |       |   Filip Mitrovic         |               |                   |
+| 9.A  |       |   Filip Mitrovic         |               |                   |
+| 10.A  |       |   Filip Mitrovic         |               |                   |
+| 11.A  |       |    Filip Mitrovic        |               |                   |
+| 12.A  |       |    Filip Mitrovic        |               |                   |
+| 13.A  |       |    Justus Meister       |               |                   |
+| 14.A  |       |   Justus Meister         |               |                   |
+| 15.A  |       |   Justus Meister         |               |                   |
+| 16.A  |       |   Justus Meister         |               |                   |
+| 17.A  |       |  Justus Meister          |               |                   |
+| 18.A  |       |  Julian Warnebold         |               |                   |
+| 19.A  |       |   Julian Warnebold         |               |                   |
+| 20.A  |       |   Julian Warnebold         |               |                   |
+| 21.A  |       |    Julian Warnebold        |               |                   |
+| 22.A  |       |   Julian Warnebold         |               |                   |
+| 23.A  |       |   Julian Warnebold         |               |                   |
+| 24.A  |       | Julian Hitz          |               |                   |
+| 25.A  |       | Julian Hitz          |               |                   |
+| 26.A  |       |  Julian Hitz         |               |                   |
+| 27.A  |       |  Julian Hitz         |               |                   |
+| 28.A  |       | Julian Hitz          |               |                   |
+| 29.A  |       | Julian Hitz          |               |                   |
+| 30.A  |       |  Julian Hitz         |               |                   |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
