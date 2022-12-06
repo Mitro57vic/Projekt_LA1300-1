@@ -35,7 +35,7 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 13 |          muss       |   funktional   |   Als User möchte ich das das Spiel nachdem der erste Spieler 10 Punkte erreicht hat beendet wird, damit es dann einen Sieger gibt.                                |
 | 14 |          muss       |   funktional   |   Als User möchte ich das fals die 10 Punkte in der Zeit von 5 Minuten nicht erreicht werden das Spiel beendet wird und der Spieler mit mehr Punkten das Spiel gewinnt, fals gleich viele Punkte Unendschieden, damit das Spiel nicht unendlich lange ist.                                |
 | 15    |       kann         |   funktional   |  Als User möchte ich eine Farbauswahl von dem Hintergrund haben, damit das Spiel verschiedene Farben haben kann.  |
-
+|16|kann|funktional|Als User möchte ich, wenn ich >=5 Punkte erzielt habe der Schwierigkeitgrad meines Gegners erhöht wird, damit das Spiel spannender ist. |
 
 
 
@@ -64,7 +64,7 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 12.1  |    Spiel wird gestartet          | Ball kommt mit Decke oder Boden in Kontakt        |   Ball Prallt ab                |
 | 13.1  |   Spiel wird gestartet           | Keine        |  Nachdem der erste Spieler 10 Punkte erreicht hat, spiel beendet                 |
 | 14.1  |     Spiel wird gestartet        |  Keine       |Spiel wird spätestens nach 5 Minuten beendet                   |
-
+|15.1|User ist im Spiel|keine|Schwierigkeitsgrad des Spieles wird nach mindestens 5 erzielten Toren erhöht.|
 
 
 ### 1.4 Diagramme
@@ -104,7 +104,7 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 27.A  |       |      Julian Hitz       | Es nach einem Punkt weiter geht, mit Anstoss       | 30 Min.              |
 | 29.A  |       |      Julian Hitz       | Der Sieger am Ende des Spiels bestimmt wird             |  45 Min.             |
 | 30.A  |       |     Julian Hitz        | Die Punkte Angezeigt werden             | 45 Min.              |
-      
+|31.A|    |Filip Mitrovic|Der Schwierigkeitsgrad des Spieles wird nach 5 erzielten Toren erhöht.|15 Min.|      
 
 Total: 
 
