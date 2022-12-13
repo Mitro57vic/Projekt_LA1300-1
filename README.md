@@ -123,11 +123,11 @@ Total: 30.A = ca. 675 Min
 
 ## 3 Entscheiden
 
-Wie haben uns für eine Stoppuhr endschieden, weil wir das schon im letzten Projekt machen mussten und das dadurch schon konnten.
+Wir haben uns für eine Stoppuhr entschieden, weil wir im letzten Projekt damit schon Erfahrung sammeln konnten und somit ist es bei diesem Projekt einfacher gelungen .
 
-Wir haben uns für eine Farben auswahl bei Blockstäben, Ball, Hintergrund etc. entschieden, weil dadurch das Spiel nicht so uninteresant ist.
+Wir haben uns für eine Farben auswahl bei Blockstäben, Ball, Hintergrund etc. entschieden, weil dadurch das Spiel interessanter und vielfältiger ist.
 
-Wir haben uns dafür entschieden das es verschiedene Schwirigkeiten gibt, dass der User das Spiel an seine Stärke anpassen kann.
+Wir haben uns dafür entschieden, dass es verschiedene Schwierigkeitsgrade gibt, damit der User seinen Gegner auf einem beliebigen Level einstellen kann.
 
 
 ## 4 Realisieren
