@@ -83,9 +83,9 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |    Lennard Bühler         |  Der User wird nach seinem Namen gefragt.            |   5 Min            |
-| 2.A  |       |   Lennard Bühler          |  Der User kann die Hintergrundfarbe bestimmen.           |    20 Min           |
-| 3.A  |       |     Lennard Bühler        |  Der User kann seinem Gegner einen Namen geben.           |  5 Min             |
+| 1.A  |       |    Lennard Bühler         |  Der User wird nach seinem Namen gefragt.            |   20 Min            |
+| 2.A  |       |   Lennard Bühler          |  Der User kann die Hintergrundfarbe bestimmen.           |    30 Min           |
+| 3.A  |       |     Lennard Bühler        |  Der User kann seinem Gegner einen Namen geben.           |  20 Min             |
 | 4.A  |       |     Lennard Bühler        |   Der User hat die Auswahl von verschiedenen Ball geschwindigkeiten.          |  30 Min             |
 | 5.A  |       |     Lennard Bühler        |  Im Spiel werden die Punkte des Users gezählt.           |    20 Min           |
 | 6.A  |       |     Lennard Bühler        |  Im Spiel werden die Punkte des Gegners gezählt.            |   10 Min            |
@@ -111,10 +111,11 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 26.A  |       |     Julian Hitz        | Der Ball sich bewegen kann.       | 45 Min.              |
 | 27.A  |       |      Julian Hitz       | Es nach einem Punkt weiter geht, mit Anstoss.       | 20 Min.              |
 | 29.A  |       |      Julian Hitz       | Der Sieger am Ende des Spiels bestimmt wird.             |  15 Min.             |
-| 30.A  |       |     Julian Hitz        | Die Punkte Angezeigt werden.             | 45 Min.              |
+| 30.A  |       |     Julian Hitz        | Die Punkte Angezeigt werden.             | 10 Min.              |
       
 
-Total: 30.A = 
+Total: 30.A = ca. 675 Min
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
@@ -133,36 +134,36 @@ Wir haben uns dafür entschieden das es verschiedene Schwirigkeiten gibt, dass d
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |      Lennard Bühler     |       30 min        |                   |
-| 2.A. |       |    Lennard Bühler        |    50 min           |                   |
-| 3.A  |       |    Lennard Bühler        |     30 min          |                   |
-| 4.A  |       |     Lennard Bühler       |     90 min          |                   |
-| 5.A  |       |     Lennard Bühler       |      50 min         |                   |
-| 6.A  |       |     Lennard Bühler       |      50 min         |                   |
+| 1.A  |       |      Lennard Bühler     |       20 min        |                   |
+| 2.A. |       |    Lennard Bühler        |    30 min           |                   |
+| 3.A  |       |    Lennard Bühler        |     20 min          |                   |
+| 4.A  |       |     Lennard Bühler       |     30 min          |                   |
+| 5.A  |       |     Lennard Bühler       |      20 min         |                   |
+| 6.A  |       |     Lennard Bühler       |      10 min         |                   |
 | 7.A  |       |    Filip Mitrovic       |      30 min         |                   |
 | 8.A  |       |   Filip Mitrovic         |      30 min         |                   |
-| 9.A  |       |   Filip Mitrovic         |     30 min          |                   |
-| 10.A  |       |   Filip Mitrovic         |      45 min         |                   |
-| 11.A  |       |    Filip Mitrovic        |     40 min          |                   |
+| 9.A  |       |   Filip Mitrovic         |     15 min          |                   |
+| 10.A  |       |   Filip Mitrovic         |      30 min         |                   |
+| 11.A  |       |    Filip Mitrovic        |     35 min          |                   |
 | 12.A  |       |    Filip Mitrovic        |     30 min          |                   |
-| 13.A  |       |    Justus Meister       |      50 min         |                   |
-| 14.A  |       |   Justus Meister         |     35 min          |                   |
+| 13.A  |       |    Justus Meister       |      30 min         |                   |
+| 14.A  |       |   Justus Meister         |     25 min          |                   |
 | 15.A  |       |   Justus Meister         |      45 min         |                   |
 | 16.A  |       |   Justus Meister         |      30 min         |                   |
-| 17.A  |       |  Justus Meister          |      30 min         |                   |
-| 18.A  |       |  Julian Warnebold         |        60 min       |                   |
+| 17.A  |       |  Justus Meister          |      20 min         |                   |
+| 18.A  |       |  Julian Warnebold         |        20 min       |                   |
 | 19.A  |       |   Julian Warnebold         |     30 min          |                   |
 | 20.A  |       |   Julian Warnebold         |        30 min       |                   |
-| 21.A  |       |    Julian Warnebold        |       50 min        |                   |
-| 22.A  |       |   Julian Warnebold         |         20 min      |                   |
-| 23.A  |       |   Julian Warnebold         |      40 min         |                   |
+| 21.A  |       |    Julian Warnebold        |       20 min        |                   |
+| 22.A  |       |   Julian Warnebold         |         40 min      |                   |
+| 23.A  |       |   Julian Warnebold         |      30 min         |                   |
 | 24.A  |       | Julian Hitz          |         30 min      |                   |
-| 25.A  |       | Julian Hitz          |         30 min      |                   |
-| 26.A  |       |  Julian Hitz         |        45 min       |                   |
+| 25.A  |       | Julian Hitz          |         25 min      |                   |
+| 26.A  |       |  Julian Hitz         |        25 min       |                   |
 | 27.A  |       |  Julian Hitz         |       45 min        |                   |
-| 28.A  |       | Julian Hitz          |       30 min        |                   |
-| 29.A  |       | Julian Hitz          |        45 min       |                   |
-| 30.A  |       |  Julian Hitz         |      45 min         |                   |
+| 28.A  |       | Julian Hitz          |       20 min        |                   |
+| 29.A  |       | Julian Hitz          |        15 min       |                   |
+| 30.A  |       |  Julian Hitz         |      10 min         |                   |
 
 
 
