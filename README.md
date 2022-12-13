@@ -13,6 +13,8 @@ Filip Mitrovic, Julian Warnebold, Julian Hitz, Justus Meister, Lennard Bühler
 |   22.11.2022    | 0.0.1   |  Gruppe kennengelernt, sich min Use case und WinForms vertraut gemacht, Projektdokumentation angefangen.|
 |   29.11.2022    | 0.0.5     |   Wir haben uns mit Winforms besser kennengelernt und fingen an unseren ersten Code zu schreiben.              |
 | 06.12.2022      | 1.0.0   |Wir beschäftigen uns mit der PR und haben unseren Code weiter geschrieben.                                                              |
+|13.12.2022       | 0.0.4   |Besprechung und zusammenstellung des Codes mit der ganzen Gruppe, PR wurde erstellt und vorgetragen, erweiterung- und verbesserung des Codes. |
+
 
 ## 1 Informieren
 
