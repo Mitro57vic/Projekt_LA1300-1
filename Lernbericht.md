@@ -11,7 +11,7 @@ Wir haben in Windowsforms mit der Programmiersprache C# ein Pong Spiel programmi
 ## Was haben wir gelernt?
 
 
-In diesem Projekt haben wir gelernt, eine Liste zu erstellen und diese in unserem Programm zu verwenden.
+
 
 ## Beschreibung (Code)
 
