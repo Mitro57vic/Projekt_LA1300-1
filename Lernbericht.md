@@ -10,21 +10,22 @@ Wir haben in Windowsforms mit der Programmiersprache C# ein Pong Spiel programmi
 
 ## Was haben wir gelernt?
 
-
+irgendein Code in der Gruppe auswählen, dass wir neu kennengelernt haben.
 
 
 ## Beschreibung (Code)
 
+Diesen Code hier erklären
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 `Code Besipiel:`
 
-
+Code rein fetzen
 
 
 `Gif:`
-
+Gif wie dieser Code im Programm läuft
 
 
 
