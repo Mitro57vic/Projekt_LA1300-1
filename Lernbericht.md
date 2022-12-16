@@ -39,10 +39,10 @@ Wir haben in Windowsforms mit der Programmiersprache C# ein Pong Spiel programmi
 # Reflexion zum Arbeitsprozess
 
 
-Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben und somit auch in guter Atmosphäre zusammen arbeiten konnten. Dadurch konnten wir auch als Team Erfolge erzielen.
+👍Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben und somit auch in guter Atmosphäre zusammen arbeiten konnten. Dadurch konnten wir auch als Team Erfolge erzielen.
 
 
-Bei unserer Arbeit lief nicht gut, dass
+👎Bei unserer Arbeit lief nicht gut, dass
 
 
 **VBV**: Ein Verbesserungsvorschlag für uns wäre, dass
