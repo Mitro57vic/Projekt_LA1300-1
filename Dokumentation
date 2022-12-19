@@ -88,7 +88,7 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 10.A  |          Filip Mitrovic      | Blockstäbe können nur Vertikal bewegt werden.             |     45 Min.          |
 | 11.A  |            Filip Mitrovic    | Ball prallt von der Decke und Boden ab.             |      40 Min.         |
 | 12.A  |           Filip Mitrovic    | Schwierigkeitgrad kann verändert werden.             |    20 Min.           |
-| 13.A  |           Justus mester   | Sound wird nach einem Tor abgespielt             |     50 min          |
+| 13.A  |           Justus meister   | Sound wird nach einem Tor abgespielt             |     50 min          |
 | 14.A  |      Justus Meister       |  Blockstabfarbe des Users kann bestimmt werden            |  15 Min.             |
 | 15.A  |        Justus Meister      |     User hat eine Auswahl von Sounds die abgespielt werden können beim erzielen eines Punktes.         |     45 Min.          |
 | 16.A  |       Justus Meister       |    Der Winkel mit dem der Ball vom Blockstab abprallt soll sich ändern je weiter oben oder unten der Ball auf den Blockstab trifft.          |               |
@@ -106,8 +106,9 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 29.A  |       Julian Hitz       | Der Sieger am Ende des Spiels bestimmt wird             |  45 Min.             |
 | 30.A  |      Julian Hitz        | Die Punkte Angezeigt werden             | 45 Min.              |
 |31.A|    Filip Mitrovic|Der Schwierigkeitsgrad des Spieles wird nach 5 erzielten Toren erhöht.|15 Min.|      
+|Total|    |      |      |
 
-Total: 
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
@@ -121,37 +122,37 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |    29.11.2022     |           |               |                   |
-| 2.A  |     29.11.2022    |           |               |                   |
-| 3.A  |     29.11.2022   |           |               |                   |
-| 4.A  |    29.11.2022    |           |               |                   |
-| 5.A  |    29.11.2022    |           |               |                   |
-| 6.A  |    29.11.2022    |           |               |                   |
-| 7.A  |     29.11.2022   |           |               |                   |
-| 8.A  |      29.11.2022  |           |               |                   |
-| 9.A  |     29.11.2022   |           |               |                   |
-| 10.A |    29.11.2022    |           |               |                   |
-| 11.A |    29.11.2022    |           |               |                   |
-| 12.A |     29.11.2022   |           |               |                   |
-| 13.A |     29.11.2022   |           |               |                   |
-| 14.A |      29.11.2022  |           |               |                   |
-| 15.A |      29.11.2022  |           |               |                   |
-| 16.A |      06.12.2022  |           |               |                   |
-| 17.A |     06.12.2022   |           |               |                   |
-| 18.A |     06.12.2022   |           |               |                   |
-| 19.A |     06.12.2022   |           |               |                   |
-| 20.A |     06.12.2022   |           |               |                   |
-| 21.A |     06.12.2022   |           |               |                   |
-| 22.A |     06.12.2022   |           |               |                   |
-| 23.A |     06.12.2022   |           |               |                   |
-| 24.A |   06.12.2022    |           |               |                   |
-| 25.A |   06.12.2022   |           |               |                   |
-| 26.A |    06.12.2022    |           |               |                   |
-| 27.A |    13.12.2022  |           |               |                   |
-| 28.A |    13.12.2022   |           |               |                   |
-| 29.A |    13.12.2022   |           |               |                   |
-| 30.A |   13.12.2022    |           |               |                   |
-| 31.A |  13.12.2022     |           |               |                   |
+| 1.A  |    29.11.2022     |    Lennard Bühler       |               |                   |
+| 2.A  |     29.11.2022    |    Lennard Bühler       |               |                   |
+| 3.A  |     29.11.2022   |     Lennard Bühler      |               |                   |
+| 4.A  |    29.11.2022    |     Lennard Bühler      |               |                   |
+| 5.A  |    29.11.2022    |      Lennard Bühler     |               |                   |
+| 6.A  |    29.11.2022    |      Lennard Bühler     |               |                   |
+| 7.A  |     29.11.2022   |     Filip Mitrovic      |               |                   |
+| 8.A  |      29.11.2022  |      Filip Mitrovic     |               |                   |
+| 9.A  |     29.11.2022   |      Filip Mitrovic     |               |                   |
+| 10.A |    29.11.2022    |      Filip Mitrovic     |               |                   |
+| 11.A |    29.11.2022    |      Filip Mitrovic     |               |                   |
+| 12.A |     29.11.2022   |       Filip Mitrovic    |               |                   |
+| 13.A |     29.11.2022   |      Justus meister     |               |                   |
+| 14.A |      29.11.2022  |        Justus meister   |               |                   |
+| 15.A |      29.11.2022  |       Justus meister    |               |                   |
+| 16.A |      06.12.2022  |      Justus meister     |               |                   |
+| 17.A |     06.12.2022   |      Justus meister     |               |                   |
+| 18.A |     06.12.2022   |     Julian Warnebold      |               |                   |
+| 19.A |     06.12.2022   |      Julian Warnebold     |               |                   |
+| 20.A |     06.12.2022   |       Julian Warnebold    |               |                   |
+| 21.A |     06.12.2022   |       Julian Warnebold    |               |                   |
+| 22.A |     06.12.2022   |      Julian Warnebold     |               |                   |
+| 23.A |     06.12.2022   |       Julian Warnebold    |               |                   |
+| 24.A |   06.12.2022    |     Julian Hitz       |               |                   |
+| 25.A |   06.12.2022   |      Julian Hitz      |               |                   |
+| 26.A |    06.12.2022    |    Julian Hitz        |               |                   |
+| 27.A |    13.12.2022  |      Julian Hitz      |               |                   |
+| 28.A |    13.12.2022   |     Julian Hitz       |               |                   |
+| 29.A |    13.12.2022   |        Julian Hitz    |               |                   |
+| 30.A |   13.12.2022    |       Julian Hitz     |               |                   |
+| 31.A |  13.12.2022     |     Filip Mitrovic      |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
