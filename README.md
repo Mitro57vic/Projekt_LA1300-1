@@ -113,8 +113,8 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 
 ## 3 Entscheiden
 
-Wir haben uns entschieden einen Timer einzubauen, weil wir das schon von der letzten Arbeit konnten.
-Wir haben uns entschieden ein Systhem eingebauen das bei einem gewissen Punktestand das Spiel beendet wird, damit das Spiel nicht unentlich lange geht.
+Wir haben uns entschieden einen Timer einzubauen, da uns dies schon im letzten Projekt gut gelungen ist.
+Wir haben uns entschieden ein System einzubauen, dass bei 10 erzielten Punkten das Spiel beendet, damit das Spiel auch ein Punktlimit besitzt.
 
 ## 4 Realisieren
 
@@ -188,6 +188,4 @@ Wir haben uns entschieden ein Systhem eingebauen das bei einem gewissen Punktest
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
-## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
