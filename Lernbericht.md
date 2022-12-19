@@ -22,8 +22,6 @@ In diesem Projekt haben wir gelernt, wie unser Programm erkennen kann, dass eine
 
 ![image](https://user-images.githubusercontent.com/110892641/208367790-6b8b0638-fef0-491b-9198-0d18efbee2af.png)
 
-
-
 `Gif:`
 Gif wie dieser Code im Programm läuft
 
