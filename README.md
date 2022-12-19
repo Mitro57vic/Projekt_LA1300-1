@@ -15,7 +15,7 @@ Filip Mitrovic, Julian Warnebold, Julian Hitz, Justus Meister, Lennard Bühler
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlich ist.
+Wir machen ein Spiel in Visual Studio mit WinForms, das dem Spiel Pong ähnlich ist.
 
 ### 1.2 User Stories
 
