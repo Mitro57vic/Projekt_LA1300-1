@@ -20,6 +20,7 @@ In diesem Projekt haben wir gelernt, wie unser Programm erkennen kann, dass eine
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 `Code Besipiel:`
 
+
  private void keyisdown(object sender, KeyEventArgs e) //Tastendruck erkennen
         {
             if(e.KeyCode == Keys.Up)
@@ -31,7 +32,6 @@ In diesem Projekt haben wir gelernt, wie unser Programm erkennen kann, dass eine
                 goDown = true;
             }
         }
-
         private void keyisup(object sender, KeyEventArgs e) //Tasten loslassen erkennen
         {
             if (e.KeyCode == Keys.Up)
