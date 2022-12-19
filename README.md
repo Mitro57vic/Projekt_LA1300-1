@@ -119,37 +119,37 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |    29.11.2022     |    Lennard Bühler       |               |                   |
-| 2.A  |     29.11.2022    |    Lennard Bühler       |               |                   |
-| 3.A  |     29.11.2022   |     Lennard Bühler      |               |                   |
-| 4.A  |    29.11.2022    |     Lennard Bühler      |               |                   |
-| 5.A  |    29.11.2022    |      Lennard Bühler     |               |                   |
-| 6.A  |    29.11.2022    |      Lennard Bühler     |               |                   |
-| 7.A  |     29.11.2022   |     Filip Mitrovic      |               |                   |
-| 8.A  |      29.11.2022  |      Filip Mitrovic     |               |                   |
-| 9.A  |     29.11.2022   |      Filip Mitrovic     |               |                   |
-| 10.A |    29.11.2022    |      Filip Mitrovic     |               |                   |
-| 11.A |    29.11.2022    |      Filip Mitrovic     |               |                   |
-| 12.A |     29.11.2022   |       Filip Mitrovic    |               |                   |
-| 13.A |     29.11.2022   |      Justus meister     |               |                   |
-| 14.A |      29.11.2022  |        Justus meister   |               |                   |
-| 15.A |      29.11.2022  |       Justus meister    |               |                   |
-| 16.A |      06.12.2022  |      Justus meister     |               |                   |
-| 17.A |     06.12.2022   |      Justus meister     |               |                   |
-| 18.A |     06.12.2022   |     Julian Warnebold      |               |                   |
-| 19.A |     06.12.2022   |      Julian Warnebold     |               |                   |
-| 20.A |     06.12.2022   |       Julian Warnebold    |               |                   |
-| 21.A |     06.12.2022   |       Julian Warnebold    |               |                   |
-| 22.A |     06.12.2022   |      Julian Warnebold     |               |                   |
-| 23.A |     06.12.2022   |       Julian Warnebold    |               |                   |
-| 24.A |   06.12.2022    |     Julian Hitz       |               |                   |
-| 25.A |   06.12.2022   |      Julian Hitz      |               |                   |
-| 26.A |    06.12.2022    |    Julian Hitz        |               |                   |
-| 27.A |    13.12.2022  |      Julian Hitz      |               |                   |
-| 28.A |    13.12.2022   |     Julian Hitz       |               |                   |
-| 29.A |    13.12.2022   |        Julian Hitz    |               |                   |
-| 30.A |   13.12.2022    |       Julian Hitz     |               |                   |
-| 31.A |  13.12.2022     |     Filip Mitrovic      |               |                   |
+| 1.A  |    29.11.2022     |    Lennard Bühler       |      30 min         |        25 min           |
+| 2.A  |     29.11.2022    |    Lennard Bühler       |      50 min         |     40 min              |
+| 3.A  |     29.11.2022   |     Lennard Bühler      |       30 min        |       40 min            |
+| 4.A  |    29.11.2022    |     Lennard Bühler      |        90 min       |        80 min           |
+| 5.A  |    29.11.2022    |      Lennard Bühler     |      50 min         |         40 min          |
+| 6.A  |    29.11.2022    |      Lennard Bühler     |       50 min        |         40 min          |
+| 7.A  |     29.11.2022   |     Filip Mitrovic      |       30 min        |        30 min           |
+| 8.A  |      29.11.2022  |      Filip Mitrovic     |       20 min        |         20 min          |
+| 9.A  |     29.11.2022   |      Filip Mitrovic     |       20 min        |         30 min          |
+| 10.A |    29.11.2022    |      Filip Mitrovic     |     45 min          |       40 min            |
+| 11.A |    29.11.2022    |      Filip Mitrovic     |       40 min        |      35 min             |
+| 12.A |     29.11.2022   |       Filip Mitrovic    |         20 min      |       25 min            |
+| 13.A |     29.11.2022   |      Justus meister     |           50 min    |      45 min             |
+| 14.A |      29.11.2022  |        Justus meister   |       15 min        |       20 min            |
+| 15.A |      29.11.2022  |       Justus meister    |         45 min      |         40 min          |
+| 16.A |      06.12.2022  |      Justus meister     |        20 min       |          20 min         |
+| 17.A |     06.12.2022   |      Justus meister     |          20 min     |         25 min          |
+| 18.A |     06.12.2022   |     Julian Warnebold      |        60 min     |          60 min         |
+| 19.A |     06.12.2022   |      Julian Warnebold     |      30 min         |        25 min           |
+| 20.A |     06.12.2022   |       Julian Warnebold    |         50 min      |       45 min            |
+| 21.A |     06.12.2022   |       Julian Warnebold    |     20 min          |       25 min            |
+| 22.A |     06.12.2022   |      Julian Warnebold     |     40 min          |       45 min            |
+| 23.A |     06.12.2022   |       Julian Warnebold    |      30 min         |       35 min            |
+| 24.A |   06.12.2022    |     Julian Hitz       |      30 min         |       40 min            |
+| 25.A |   06.12.2022   |      Julian Hitz      |        45 min       |      40 min             |
+| 26.A |    06.12.2022    |    Julian Hitz        |     45 min          |    40 min               |
+| 27.A |    13.12.2022  |      Julian Hitz      |        45 min       |      50 min             |7
+| 28.A |    13.12.2022   |     Julian Hitz       |       30 min        |     20 min              |
+| 29.A |    13.12.2022   |        Julian Hitz    |        45 min       |     30 min              |
+| 30.A |   13.12.2022    |       Julian Hitz     |       45 min        |      50 min             |
+| 31.A |  13.12.2022     |     Filip Mitrovic      |      15 min         |      20 min             |
 |Total|       |        |          |       |
 
 
