@@ -74,34 +74,34 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
+| AP-№ | Zuständig | Beschreibung | geplante Zeit |
+| ---- |  --------- | ------------ | ------------- |
 | 1.A  |       |    Lennard Bühler       |  Der User wird nach dem Namen gefragt            |   30 Min            |
-| 2.A  |       |   Lennard Bühler          |  Der User kann die Hintergrundfarbe bestimmen           |    50 Min           |
+| 2.A  |      |   Lennard Bühler          |  Der User kann die Hintergrundfarbe bestimmen           |    50 Min           |
 | 3.A  |       |     Lennard Bühler        |  Der User kann seinem Gegner einen Namen geben           |  30 Min             |
 | 4.A  |       |     Lennard Bühler        |   Der User hat die Auswahl aus verschiedenen Ball geschwindigkeiten          |  90 Min             |
-| 5.A  |       |     Lennard Bühler        |  Im Spiel werden die Punkte des Users gezählt           |    50 Min           |
+| 5.A  |      |     Lennard Bühler        |  Im Spiel werden die Punkte des Users gezählt           |    50 Min           |
 | 6.A  |       |     Lennard Bühler        |  Im Spiel werden die Punkte des Gegners gezählt            |   50 Min            |
-| 7.A  |       |     Filip Mitrovic        | Ballfarbe kann bestimmt werden|30 Min.|
+| 7.A  |     |     Filip Mitrovic        | Ballfarbe kann bestimmt werden|30 Min.|
 | 8.A  |       |    Filip Mitrovic         |  Blockstabfarbe des Gegners kann bestimmt werden| 20 Min.              |
-| 9.A  |       |    Filip Mitrovic        | Es hat ein Zeitlimit bis das Spiel beendet wird             |    20 Min.           |
+| 9.A  |      |    Filip Mitrovic        | Es hat ein Zeitlimit bis das Spiel beendet wird             |    20 Min.           |
 | 10.A  |       |      Filip Mitrovic      | Blockstäbe können nur Vertikal bewegt werden.             |     45 Min.          |
 | 11.A  |       |        Filip Mitrovic    | Ball prallt von der Decke und Boden ab.             |      40 Min.         |
-| 12.A  |       |        Filip Mitrovic    | Schwierigkeitgrad kann verändert werden.             |    20 Min.           |
-| 13.A  |       |        Justus mester   | Sound wird nach einem Tor abgespielt             |     50 min          |
-| 14.A  |       |  Justus Meister       |  Blockstabfarbe des Users kann bestimmt werden            |  15 Min.             |
-| 15.A  |       |    Justus Meister      |     User hat eine Auswahl von Sounds die abgespielt werden können beim erzielen eines Punktes.         |     45 Min.          |
-| 16.A  |       |    Justus Meister       |    Der Winkel mit dem der Ball vom Blockstab abprallt soll sich ändern je weiter oben oder unten der Ball auf den Blockstab trifft.          |               |
-| 17.A  |       |     Justus Meister      |              |               |
-| 18.A  |       |      Julian Warnebold     |Hintergrundfarben bestimmen können              |   60 Min.            |
-| 19.A  |       |       Julian Warnebold       |  Hintergrundfarbe nach jedem Spiel ändern können            |      30 Min.         |              
-| 20.A  |       |      Julian Warnebold        |  Hintergründe mit mehreren Farben wählen können            |      50 Min.         |
-| 21.A  |       |      Julian Warnebold        |  Wenn Hintergrund mit mehreren Farben gewählt wird und nur eine Ausgesucht wird, Fehler eingabe            |     20 Min.          |
-| 22.A  |       |      Julian Warnebold        |  Hintergrundmuster auswählen könne            |   40 Min.            |
-| 23.A  |       |    Julian Warnebold       | Maximal 1 Hintergrundmuster möglich machen             |     30 Min          |
-| 24.A  |       |    Julian Hitz         | Das Spiel nach 10 Punkten beendet wird     | 30 Min.    |
-| 25.A  |       |     Julian Hitz        | Das Spiel nach 5 Min. beendet wird, wenn keine 10 Punkte|  45 Min.             |
-| 26.A  |       |     Julian Hitz        | Der Ball sich bewegen kann       | 45 Min.              |
+| 12.A  |      |        Filip Mitrovic    | Schwierigkeitgrad kann verändert werden.             |    20 Min.           |
+| 13.A  |         |        Justus mester   | Sound wird nach einem Tor abgespielt             |     50 min          |
+| 14.A  |        |  Justus Meister       |  Blockstabfarbe des Users kann bestimmt werden            |  15 Min.             |
+| 15.A  |        |    Justus Meister      |     User hat eine Auswahl von Sounds die abgespielt werden können beim erzielen eines Punktes.         |     45 Min.          |
+| 16.A  |         |    Justus Meister       |    Der Winkel mit dem der Ball vom Blockstab abprallt soll sich ändern je weiter oben oder unten der Ball auf den Blockstab trifft.          |               |
+| 17.A  |         |     Justus Meister      |              |               |
+| 18.A  |         |      Julian Warnebold     |Hintergrundfarben bestimmen können              |   60 Min.            |
+| 19.A  |        |       Julian Warnebold       |  Hintergrundfarbe nach jedem Spiel ändern können            |      30 Min.         |              
+| 20.A  |         |      Julian Warnebold        |  Hintergründe mit mehreren Farben wählen können            |      50 Min.         |
+| 21.A  |         |      Julian Warnebold        |  Wenn Hintergrund mit mehreren Farben gewählt wird und nur eine Ausgesucht wird, Fehler eingabe            |     20 Min.          |
+| 22.A  |         |      Julian Warnebold        |  Hintergrundmuster auswählen könne            |   40 Min.            |
+| 23.A  |        |    Julian Warnebold       | Maximal 1 Hintergrundmuster möglich machen             |     30 Min          |
+| 24.A  |         |    Julian Hitz         | Das Spiel nach 10 Punkten beendet wird     | 30 Min.    |
+| 25.A  |         |     Julian Hitz        | Das Spiel nach 5 Min. beendet wird, wenn keine 10 Punkte|  45 Min.             |
+| 26.A  |      |     Julian Hitz        | Der Ball sich bewegen kann       | 45 Min.              |
 | 27.A  |       |      Julian Hitz       | Es nach einem Punkt weiter geht, mit Anstoss       | 30 Min.              |
 | 29.A  |       |      Julian Hitz       | Der Sieger am Ende des Spiels bestimmt wird             |  45 Min.             |
 | 30.A  |       |     Julian Hitz        | Die Punkte Angezeigt werden             | 45 Min.              |
@@ -121,8 +121,37 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |    29.11.2022     |           |               |                   |
+| 2.A  |     29.11.2022    |           |               |                   |
+| 3.A  |     29.11.2022   |           |               |                   |
+| 4.A  |    29.11.2022    |           |               |                   |
+| 5.A  |    29.11.2022    |           |               |                   |
+| 6.A  |    29.11.2022    |           |               |                   |
+| 7.A  |     29.11.2022   |           |               |                   |
+| 8.A  |      29.11.2022  |           |               |                   |
+| 9.A  |     29.11.2022   |           |               |                   |
+| 10.A |    29.11.2022    |           |               |                   |
+| 11.A |    29.11.2022    |           |               |                   |
+| 12.A |     29.11.2022   |           |               |                   |
+| 13.A |     29.11.2022   |           |               |                   |
+| 14.A |      29.11.2022  |           |               |                   |
+| 15.A |      29.11.2022  |           |               |                   |
+| 16.A |      06.12.2022  |           |               |                   |
+| 17.A |     06.12.2022   |           |               |                   |
+| 18.A |     06.12.2022   |           |               |                   |
+| 19.A |     06.12.2022   |           |               |                   |
+| 20.A |     06.12.2022   |           |               |                   |
+| 21.A |     06.12.2022   |           |               |                   |
+| 22.A |     06.12.2022   |           |               |                   |
+| 23.A |     06.12.2022   |           |               |                   |
+| 24.A |   06.12.2022    |           |               |                   |
+| 25.A |   06.12.2022   |           |               |                   |
+| 26.A |    06.12.2022    |           |               |                   |
+| 27.A |    13.12.2022  |           |               |                   |
+| 28.A |    13.12.2022   |           |               |                   |
+| 29.A |    13.12.2022   |           |               |                   |
+| 30.A |   13.12.2022    |           |               |                   |
+| 31.A |  13.12.2022     |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
