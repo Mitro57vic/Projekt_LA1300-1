@@ -29,7 +29,7 @@ Gif wie dieser Code im Programm läuft
 
 ## Verifikation
 
-* `Code:` Dieser Code ist ein Beispiel, denn man im Programm benutzen kann.
+* `Code:` Dieser Code ist ein Beispiel, denn man für das Programm benutzen kann.
 
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
@@ -38,12 +38,12 @@ Gif wie dieser Code im Programm läuft
 # Reflexion zum Arbeitsprozess
 
 
-👍Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben und somit auch in guter Atmosphäre zusammen arbeiten konnten. Dadurch konnten wir auch als Team Erfolge erzielen.
+👍Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben und somit auch in guter Atmosphäre zusammen arbeiten konnten. Dadurch konnten wir auch als Team Erfolge erzielen. 
 
 
-👎Bei unserer Arbeit lief nicht gut, dass
+👎Bei unserer Arbeit lief nicht gut, dass wir die Arbeiten in der Gruppe schlecht eingeteilt haben, wobei ein Paar Gruppenmitglieder mehr oder weniger zu tun hatten. Das heisst der erste und zweite Schritt von IPERKA (Informieren und planen) ist uns eher weniger gelungen. 
 
 
-**VBV**: Ein Verbesserungsvorschlag für uns wäre, dass
+**VBV**: Ein Verbesserungsvorschlag für uns wäre, dass wir uns besser über die Arbeitszeiten befassen und so die Arbeit zu denn jenen Gruppenmitglieder gleichmässig aufteilen können.
 
 
