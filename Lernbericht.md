@@ -15,13 +15,34 @@ irgendein Code in der Gruppe auswählen, dass wir neu kennengelernt haben.
 
 ## Beschreibung (Code)
 
-Diesen Code hier erklären
+ Code Erklärung
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 `Code Besipiel:`
 
-Code rein fetzen
+ private void keyisdown(object sender, KeyEventArgs e) //Tastendruck erkennen
+        {
+            if(e.KeyCode == Keys.Up)
+            {
+                goUp = true;
+            }
+            if (e.KeyCode == Keys.Down)
+            {
+                goDown = true;
+            }
+        }
+
+        private void keyisup(object sender, KeyEventArgs e) //Tasten loslassen erkennen
+        {
+            if (e.KeyCode == Keys.Up)
+            {
+                goUp = false;
+            }
+            if (e.KeyCode == Keys.Down)
+            {
+                goDown = false;
+            }
 
 
 `Gif:`
@@ -31,7 +52,7 @@ Gif wie dieser Code im Programm läuft
 
 ## Verifikation
 
-* `Code Beispiel:` 
+* `Code Beispiel:`Der Code dient für
 
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
