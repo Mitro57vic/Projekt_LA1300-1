@@ -10,8 +10,7 @@ Wir haben in Windowsforms mit der Programmiersprache C# ein Pong Spiel programmi
 
 ## Was haben wir gelernt?
 
-irgendein Code in der Gruppe auswählen, dass wir neu kennengelernt haben.
-
+In diesem Projekt haben wir gelernt, wie unser Programm erkennen kann, dass eine Taste gedrückt oder losgelassen wurde.
 
 ## Beschreibung (Code)
 
