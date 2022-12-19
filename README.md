@@ -106,14 +106,15 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 29.A  |       Julian Hitz       | Der Sieger am Ende des Spiels bestimmt wird             |  45 Min.             |
 | 30.A  |      Julian Hitz        | Die Punkte Angezeigt werden             | 45 Min.              |
 |31.A|    Filip Mitrovic|Der Schwierigkeitsgrad des Spieles wird nach 5 erzielten Toren erhöht.|15 Min.|      
-|Total|    |      |      |
+|Total|    |      |   1155 min     |
 
 
 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden einen Timer einzubauen, weil wir das schon von der letzten Arbeit konnten.
+Wir haben uns entschieden ein Systhem eingebauen das bei einem gewissen Punktestand das Spiel beendet wird, damit das Spiel nicht unentlich lange geht.
 
 ## 4 Realisieren
 
@@ -145,15 +146,14 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 | 24.A |   06.12.2022    |     Julian Hitz       |      30 min         |       40 min            |
 | 25.A |   06.12.2022   |      Julian Hitz      |        45 min       |      40 min             |
 | 26.A |    06.12.2022    |    Julian Hitz        |     45 min          |    40 min               |
-| 27.A |    13.12.2022  |      Julian Hitz      |        45 min       |      50 min             |7
+| 27.A |    13.12.2022  |      Julian Hitz      |        45 min       |      50 min             |
 | 28.A |    13.12.2022   |     Julian Hitz       |       30 min        |     20 min              |
 | 29.A |    13.12.2022   |        Julian Hitz    |        45 min       |     30 min              |
 | 30.A |   13.12.2022    |       Julian Hitz     |       45 min        |      50 min             |
 | 31.A |  13.12.2022     |     Filip Mitrovic      |      15 min         |      20 min             |
-|Total|       |        |          |       |
+|Total|       |        |      1155 min    |   1080 min    |
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
