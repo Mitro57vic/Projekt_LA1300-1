@@ -52,7 +52,7 @@ Gif wie dieser Code im Programm läuft
 
 ## Verifikation
 
-* `Code Beispiel:`Der Code dient für
+* `Code:` Dieser Code ist ein Beispiel, denn man im Programm benutzen kann.
 
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
