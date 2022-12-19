@@ -70,7 +70,8 @@ Wir machen ein Spiel in Visual Studions mit WinForms, das dem Spiel Pong ähnlic
 
 ### 1.4 Diagramme
 
-![Bild](Screenshot_20221124_084159.png)
+![Diagramm](https://user-images.githubusercontent.com/110892641/208510858-7e0d8642-178c-41bc-ae43-9f1a542d67d1.png)
+
 
 ## 2 Planen
 
