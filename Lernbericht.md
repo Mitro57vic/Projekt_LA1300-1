@@ -20,8 +20,8 @@ In diesem Projekt haben wir gelernt, wie unser Programm erkennen kann, dass eine
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 `Code Besipiel:`
 
-
- private void keyisdown(object sender, KeyEventArgs e) //Tastendruck erkennen
+private void keyisdown(object sender, KeyEventArgs e) //Tastendruck erkennen
+ 
         {
             if(e.KeyCode == Keys.Up)
             {
