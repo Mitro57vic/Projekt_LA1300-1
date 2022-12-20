@@ -46,6 +46,6 @@ Um dann die Bars zu bewegen, wird z.B. bei einem Arrow-Up Tastendruck die Variab
 👎Bei unserer Arbeit lief nicht gut, dass wir die Arbeiten in der Gruppe schlecht eingeteilt haben, wobei ein Paar Gruppenmitglieder mehr oder weniger zu tun hatten. Das heisst der erste und zweite Schritt von IPERKA (Informieren und Planen) ist uns eher weniger gelungen. 
 
 
-**VBV**: Ein Verbesserungsvorschlag für uns wäre, dass wir uns besser über die Arbeitszeiten befassen und so die Arbeit zu denn jenen Gruppenmitglieder gleichmässig aufteilen können.
+**VBV**: Ein Verbesserungsvorschlag für uns wäre, dass wir uns besser mit den Arbeitszeiten befassen und so die Arbeit auf jeden Gruppenmitglieder gleichmässig aufteilen können.
 
 
