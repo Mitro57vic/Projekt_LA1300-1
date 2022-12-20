@@ -179,4 +179,4 @@ Wir haben uns entschieden ein System einzubauen, dass bei 10 erzielten Punkten d
 | 15.1  |      13.12.2022  |     Funktioniert     |   Mitrovic+Meister     |
 
 `Fazit:`
-Die wichtigsten Teile des Codes sind mit Erfolg ausgegangen, somit unser Spiel funktioniert und spielbar ist. Doch Leider konnten wir wegen geringer Zeit nicht alle unsere Wünsche für das Programm erfüllen.
+Die wichtigsten Teile des Programmes sind mit Erfolg ausgegangen, somit unser Spiel funktioniert und spielbar ist. Doch Leider konnten wir wegen geringer Zeit nicht alle unsere Wünsche für das Programm erfüllen.
