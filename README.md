@@ -178,15 +178,4 @@ Wir haben uns entschieden ein System einzubauen, dass bei 10 erzielten Punkten d
 | 14.1  |     13.12.2022   |    Funktioniert      |   Mitrovic+Meister     |
 | 15.1  |      13.12.2022  |     Funktioniert     |   Mitrovic+Meister     |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |   Spiel wird gestartet           |   Tastendruck auf der Tastatur      | Blockstab kann sich nach oben und unten bewegen     |   Blockstab kann sich nur nach unten bewegen|
-| II   |       Spiel wird gestartet       |    Keine     |    Ball prallt von der Decke und vom Boden ab           |       Ball flog aus dem Forms Fenster raus und kam nicht mehr zurück               |
-
-
-
-
+Die wichtigsten Teile des Codes sind mit Erfolg ausgegangen, somit unser Spiel funktioniert und spielbar ist. Doch Leider konnten wir wegen geringer Zeit nicht alle unsere Wünsche für das Programm erfüllen.
