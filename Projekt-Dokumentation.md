@@ -16,7 +16,10 @@ Filip Mitrovic, Julian Warnebold, Julian Hitz, Justus Meister, Lennard Bühler
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein Spiel in Visual Studio mit WinForms, dass dem Spiel Pong ähnlich ist.
+Wir machen ein Spiel in Visual Studio mit WinForms, dass dem Spiel Pong ähnlich ist, Pong ist ein Spiel, bei welchem sich zwei Balken gegenüberstehen und sich einen Ball zuspielen. Ziel ist es, den Ball hinter die Linie des Mitspielers zu befördern.
+
+
+
 
 ### 1.2 User Stories
 
