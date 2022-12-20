@@ -31,9 +31,9 @@ Um dann die Bars zu bewegen, wird z.B. bei einem Arrow-Up Tastendruck die Variab
 
 ## Verifikation
 
-* `Code:` Dieser Code ist ein Beispiel, denn man für das Programm benutzen kann.
-
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
+
+* `Code:` Dieser Code ist ein Beispiel, denn man für das Programm benutzen kann.
 
 * `Gif:` Das Gif dient zur Demonstration des Programmes.
 
