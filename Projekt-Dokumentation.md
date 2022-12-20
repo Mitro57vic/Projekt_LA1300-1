@@ -189,3 +189,5 @@ Wir haben uns entschieden ein System einzubauen, dass bei 10 erzielten Punkten d
 `Fazit:`
 
 Die wichtigsten Teile des Programmes sind mit Erfolg ausgegangen, somit ist unser Programm spielbar. Doch Leider konnten wir wegen geringer Zeit nicht alle unsere Wünsche für das Programm erfüllen.
+
+## 6 Auswerten
