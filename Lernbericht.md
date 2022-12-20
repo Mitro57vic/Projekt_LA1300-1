@@ -5,7 +5,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Einleitung
-Wir haben in Windowsforms mit der Programmiersprache C# ein Pong Spiel programmiert.
+Wir haben in Windowsforms mit der Programmiersprache C# ein Pong Spiel programmiert, Pong ist ein Spiel, bei welchem sich zwei Balken gegenüberstehen und sich einen Ball zuspielen. Ziel ist es, den Ball hinter die Linie des Mitspielers zu befördern.
 
 
 ## Was haben wir gelernt?
