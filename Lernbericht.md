@@ -15,7 +15,7 @@ In diesem Projekt haben wir gelernt, wie unser Programm erkennen kann, dass eine
 ## Code-Erklärung
 
 Mithilfe eines `keyisdown-` und eines `keyisup` event kann das Programm erkennen ob eine gewisse Taste gedrückt oder losgelassen wird. Das ist ein sehr wichtiger Bestandteil von unserem Programm, denn ohne das könnten sich die Bars nicht bewegen. Aber alleine das Event bringt uns nichts. Im Event muss man noch spezifizieren auf welchen Keyinput reagiert werden soll. In unserem Fall ist das Arrow-Up und Arrow-Down. 
-Um dann die Bars zu bewegen, wird z.B. bei einem Arrow-Up Tastendruck die Variable "goUp" auf `true` gesetzt. Sobald die Taste wieder losgelassen wird, wird "goUp" wieder auf `false` gesetzt."
+Um dann die Bars zu bewegen, wird z.B. bei einem Arrow-Up Tastendruck die Variable "goUp" auf `true` gesetzt. Sobald die Taste wieder losgelassen wird, wird "goUp" wieder auf `false` gesetzt.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 `Code Besipiel:`
