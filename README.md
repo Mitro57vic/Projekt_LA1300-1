@@ -10,6 +10,7 @@ Filip Mitrovic, Julian Warnebold, Julian Hitz, Justus Meister, Lennard Bühler
 | 29.11.2022      | 0.0.2   | Gruppe hat angefangen zu realisieren und sich mit tutorials beschäftigt.                                     |
 |  06.12.2022     | 0.0.3   |Gruppe hat angefangen sich mit der PR zu beschäftigen und setzte das Programmieren fort.| 
 |13.12.2022       | 0.0.4   |Besprechung und zusammenstellung des Codes mit der ganzen Gruppe, PR wurde erstellt und vorgetragen, erweiterung- und verbesserung des Codes. |
+|20.12.2022       | 1.0.0   |Wir haben unsere Projektdokumentation und den Lernbericht fertig gemacht. Wir haben auch den Code auf Github geladen. |
 
 ## 1 Informieren
 
