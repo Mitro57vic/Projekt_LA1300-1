@@ -40,7 +40,7 @@ Um dann die Bars zu bewegen, wird z.B. bei einem Arrow-Up Tastendruck die Variab
 # Reflexion zum Arbeitsprozess
 
 
-👍Bei unserer Arbeit lief gut, dass wir uns schnell in Windows Forms einarbeiten konten. Wir hatten auch eine gute Atmosphäre und konnten schon früh anfangen zu arbeiten. Dadurch konnten wir auch als Team Erfolge erzielen. 
+👍Bei unserer Arbeit lief gut, dass wir uns schnell in Windows Forms einarbeiten konten. Dadurch haben wir schon früh anfangen zu arbeiten und konnten  auch als Team Erfolge erzielen. 
 
 
 👎Bei unserer Arbeit lief nicht gut, dass wir die Arbeiten in der Gruppe schlecht eingeteilt haben, wobei ein Paar Gruppenmitglieder mehr oder weniger zu tun hatten. Das heisst der erste und zweite Schritt von IPERKA (Informieren und planen) ist uns eher weniger gelungen. 
