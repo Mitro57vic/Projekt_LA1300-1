@@ -167,7 +167,7 @@ Wir haben uns entschieden ein System einzubauen, dass bei 10 erzielten Punkten d
 | 3.1  |     13.12.2022   |     Funktioniert     |    Mitrovic+Meister    |
 | 4.1  |     13.12.2022   |      Funktioniert nicht    |    Mitrovic+Meister    |
 | 5.1  |    13.12.2022    |       Funktioniert nicht   |    Mitrovic+Meister    |
-| 6.1  |    13.12.2022    |     Funktioniert     |    Mitrovic+Meister    |
+| 6.1  |    13.12.2022    |     Funktioniert nicht    |    Mitrovic+Meister    |
 | 7.1  |    13.12.2022    |    Funktioniert nicht      |    Mitrovic+Meister    |
 | 8.1  |    13.12.2022    |      Funktioniert nicht    |    Mitrovic+Meister    |
 | 9.1  |    13.12.2022    |    Funktioniert      |    Mitrovic+Meister    |
