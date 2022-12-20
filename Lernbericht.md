@@ -10,7 +10,7 @@ Wir haben in Windowsforms mit der Programmiersprache C# ein Pong Spiel programmi
 
 ## Was haben wir gelernt?
 
-In diesem Projekt haben wir gelernt, wie unser Programm erkennen kann, dass eine Taste gedrückt oder losgelassen wurde.
+In diesem Projekt haben wir gelernt, wie unser Programm erkennen kann, dass eine Taste gedrückt oder losgelassen wird, dadurch können wir Pictureboxen im Programm bewegen.
 
 ## Beschreibung (Code)
 
