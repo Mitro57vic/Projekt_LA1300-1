@@ -22,6 +22,7 @@ Um dann die Bars zu bewegen, wird z.B. bei einem Arrow-Up Tastendruck die Variab
 
 ![image](https://user-images.githubusercontent.com/110892641/208367790-6b8b0638-fef0-491b-9198-0d18efbee2af.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 `Gif:`
 
 ![Pong-Game](https://user-images.githubusercontent.com/110892641/208469719-bcd215db-4c2a-443a-9eed-ae3621f47d03.gif)
