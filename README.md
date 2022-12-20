@@ -184,8 +184,8 @@ Wir haben uns entschieden ein System einzubauen, dass bei 10 erzielten Punkten d
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    |   Spiel wird gestartet           |   Tastendruck auf der Tastatur      | Blockstab kann sich nach oben und unten bewegen     |   Blockstab kann sich nur nach unten bewegen|
+| II   |              |    Keine     |                   |                      |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
