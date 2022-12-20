@@ -66,7 +66,8 @@ Wir machen ein Spiel in Visual Studio mit WinForms, dass dem Spiel Pong ähnlich
 | 12.1  |    Spiel wird gestartet          | Ball kommt mit Decke oder Boden in Kontakt        |   Ball Prallt ab                |
 | 13.1  |   Spiel wird gestartet           | Keine        |  Nachdem der erste Spieler 10 Punkte erreicht hat, spiel beendet                 |
 | 14.1  |     Spiel wird gestartet        |  Keine       |Spiel wird spätestens nach 5 Minuten beendet                   |
-|15.1|User ist im Spiel|keine|Schwierigkeitsgrad des Spieles wird nach mindestens 5 erzielten Toren erhöht.|
+|15.1|Spiel wird gestartet|User wält Hintergrundfarbe aus|Der Hintergrund bekommt die Ausgewählte Farbe.|
+|16.1|User ist im Spiel|keine|Schwierigkeitsgrad des Spieles wird nach mindestens 5 erzielten Toren erhöht.|
 
 
 ### 1.4 Diagramme
@@ -179,8 +180,8 @@ Wir haben uns entschieden ein System einzubauen, dass bei 10 erzielten Punkten d
 | 12.1  |     13.12.2022   |      Funktioniert    |   Mitrovic+Meister     |
 | 13.1  |     13.12.2022   |   Funktioniert       |   Mitrovic+Meister     |
 | 14.1  |     13.12.2022   |    Funktioniert      |   Mitrovic+Meister     |
-| 15.1  |      13.12.2022  |     Funktioniert     |   Mitrovic+Meister     |
-
+| 15.1  |      13.12.2022  |     Funktioniert nicht    |   Mitrovic+Meister     |
+| 16.1  |      13.12.2022  |     Funktioniert     |   Mitrovic+Meister     |
 
 `Fazit:`
 
