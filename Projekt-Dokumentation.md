@@ -87,13 +87,13 @@ Wir machen ein Spiel in Visual Studio mit WinForms, dass dem Spiel Pong ähnlich
 | 3.A  |           Lennard Bühler        |  Der User kann seinem Gegner einen Namen geben           |  30 Min             |
 | 4.A  |           Lennard Bühler        |   Der User hat die Auswahl aus verschiedenen Ball geschwindigkeiten          |  90 Min             |
 | 5.A  |          Lennard Bühler        |  Im Spiel werden die Punkte des Users gezählt           |    50 Min           |
-| 6.A  |           Lennard Bühler        |  Im Spiel werden die Punkte des Gegners gezählt            |   50 Min            |
+| 6.A  |           Lennard Bühler        |  Im Spiel werden die Punkte des Gegners gezählt            |   55 Min            |
 | 7.A  |          Filip Mitrovic        | Ballfarbe kann bestimmt werden|30 Min.|
 | 8.A  |         Filip Mitrovic         |  Blockstabfarbe des Gegners kann bestimmt werden| 20 Min.              |
 | 9.A  |         Filip Mitrovic        | Es hat ein Zeitlimit bis das Spiel beendet wird             |    20 Min.           |
 | 10.A  |          Filip Mitrovic      | Blockstäbe können nur Vertikal bewegt werden.             |     45 Min.          |
 | 11.A  |            Filip Mitrovic    | Ball prallt von der Decke und Boden ab.             |      40 Min.         |
-| 12.A  |           Filip Mitrovic    | Schwierigkeitgrad kann verändert werden.             |    20 Min.           |
+| 12.A  |           Filip Mitrovic    | Schwierigkeitgrad kann verändert werden.             |    25 Min.           |
 | 13.A  |           Justus meister   | Sound wird nach einem Tor abgespielt             |     50 min          |
 | 14.A  |      Justus Meister       |  Blockstabfarbe des Users kann bestimmt werden            |  15 Min.             |
 | 15.A  |        Justus Meister      |     User hat eine Auswahl von Sounds die abgespielt werden können beim erzielen eines Punktes.         |     45 Min.          |
