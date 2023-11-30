@@ -102,7 +102,7 @@ namespace Pong_game
                 gameTimer.Stop();
                 MessageBox.Show("Congratulations, you have won this game!");
             }
-
+//Player lost
             if (ComScore >= 10)
             {
                 gameTimer.Stop();
